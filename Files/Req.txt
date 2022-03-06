@@ -1,0 +1,79 @@
+wemos d1 r2{
+	https://www.netram.co.za/wifi/9767-arduino-d1-esp-nodemcu-compatible-esp-8266.html
+	https://pclinkshop.com/products/b07j2qknhb
+	Price: R384.00 incl VAT
+} 
+
+Dimmmer{
+	https://www.netram.co.za/led/9751-ac-light-dimmer-module-for-pwm-control.html?gclid=CjwKCAjw95yJBhAgEiwAmRrutGx-CtqJWauGkyIN60d27B_VLNHyqm70xuc2WK14S6ojISFuA9MM2hoCBOUQAvD_BwE
+	Price: R214.15 incl VAT	
+}
+
+3kW heating element{
+	https://leroymerlin.co.za/3kw-boss-element-with-pocket-81450768?sfdr_ptcid=32806_617_564347155&sfdr_hash=0a546e2a4747f9c97f9c090c3ea6f289&gclid=CjwKCAjw95yJBhAgEiwAmRrutKqV-nprnRoAjIIfCJk5b-wfgi4GUUz6zC4rleQk1t_61sWv2p8wjhoCd0UQAvD_BwE
+	Price: R218.00 incl VAT
+}
+
+Heating element cable 1.5mm{
+	https://leroymerlin.co.za/house-wire-1-5mm-red-50m-81425433?sfdr_ptcid=32806_617_516940310&sfdr_hash=86c7662e456067b8563722476fee0442&gclid=CjwKCAjw95yJBhAgEiwAmRrutJ6eq_HCuSGj7m6W4odOJCusCbOjSJBcMKn-HR-haFypKSKGSOWJeRoCxRAQAvD_BwE
+	Price: R267.00 incl VAT
+}
+
+Temp sensor * 3{
+	https://www.botshop.co.za/product/water-proof-ds18b20-temperature-sensor/
+	Price: R62.16
+	Total: R186.48 incl VAT
+}
+
+Wemos cable{
+	Any micro usb charger that can handle data transfers
+	https://www.robotics.org.za/MICRO-USB-50?search=micro%20usb
+	R18.40 incl VAT
+}
+
+Flow sensor/ Meter{
+	https://www.communica.co.za/products/bmt-g1-2in-water-flow-sensor?utm_source=www.communica.co.za&variant=31667842318409&sfdr_ptcid=31591_617_641789035&sfdr_hash=80dac105469c1b75b350359d13035a3b&gclid=CjwKCAjw95yJBhAgEiwAmRrutMs1460U240nYqQjeIDO7TJmRN3miqpqYsK-TBhkwzSZz41WJKYbbxoCn4AQAvD_BwE
+	Price: R85 incl VAT
+}
+
+Blynk GUI Req{
+	blanc.cc energy
+	Price R49.99 incl VAT
+	extra 1000 units
+}
+
+Buzzer{
+	https://www.netram.co.za/other/9215-piezo-electronic-buzzer.html
+	Price R15.00 incl VAT
+}
+
+Blynk Device regisrtation/ App creation{
+	Price: $4.99
+	Total: R74.41
+}
+
+Arduino jumpers{
+	https://www.netram.co.za/cables/9154-jumper-wires-m-m-40-pin.html
+	Price: R30.00 incl VAT
+}
+
+Volt Meter * 2{
+	https://www.netram.co.za/batteries/9177-small-voltmeter-digital-battery-tester.html
+	Price: R78.40 incl VAT
+}
+
+
+Kapton tape{
+	https://www.netram.co.za/heated-beds/8862-kapton-tape-20mm.html
+	Price: R66.80 incl VAT
+}
+
+Protective sleeve{
+	https://www.netram.co.za/materials/9021-6mm-woven-sleeving-1-meter.html
+	Price: R16.05 incl VAT
+}
+
+4.7k resistors{
+	https://www.botshop.co.za/product/4k7-resistor-pack-of-10/?utm_source=Google%20Shopping&utm_campaign=Bot%20Shop%20Shopping%20Ads&utm_medium=cpc&utm_term=60539&gclid=CjwKCAjwmqKJBhAWEiwAMvGt6JIW4vlHy_Uyhv1Wm658nBlKRBWJFGMFfnp166S5l4kqhgU9QedwsBoCAJoQAvD_BwE
+	Price: R7.02 incl VAT
+}
